@@ -6,16 +6,16 @@ Regularly updated list with resources and links we found on the web, curated by 
 ## React Native
 
 * Inspiration for everything
-  * [Oficial](https://facebook.github.io/react-native/docs/getting-started.html)
-  * [Awesome React Native](http://awesome-react-native.com)
-  * [React Native Community](https://www.facebook.com/groups/react.native.community/) 
-  * [React Native Blog](http://facebook.github.io/react-native/blog/) 
+  * [Oficial documentation](https://facebook.github.io/react-native/docs/getting-started.html)
+  * [Awesome React Native](https://github.com/jondot/awesome-react-native)
+  * [Facebook - React Native Community](https://www.facebook.com/groups/react.native.community/) 
+  * [Facebook - React Native Blog](http://facebook.github.io/react-native/blog/) 
 
 * Courses / Tutorials / Books
-  * [Building an app from Scratch](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
+  * [Raywenderlich - Building an app from Scratch](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
   * [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
-  * [Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/content)
-  * [Programming React Native](https://leanpub.com/programming-react-native)
+  * [Udemy - Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/content)
+  * [Leanpub - Programming React Native](https://leanpub.com/programming-react-native)
   * [React Native Education](https://github.com/hsavit1/Awesome-React-Native-Education)
   * [Mario Díez Canal Youtube Español](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native)
 
@@ -38,8 +38,8 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Firebase Cloud Messaging - FCM](https://github.com/evollu/react-native-fcm)
   * [Firebase Database/Storage - react-native-firebase](https://github.com/invertase/react-native-firebase)
   * [simple-store](https://github.com/jasonmerino/react-native-simple-store)
-  * [orientation](https://github.com/yamill/react-native-orientation)
-  * [fs](https://github.com/johanneslumpe/react-native-fs)
+  * [orientation - Listen to device orientation changes](https://github.com/yamill/react-native-orientation)
+  * [fs - Native filesystem access](https://github.com/johanneslumpe/react-native-fs)
 
 * Components
   * [Router Flux](https://github.com/aksonov/react-native-router-flux)
