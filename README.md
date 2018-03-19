@@ -27,6 +27,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [React Devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
   
 * Libs
+  * [Yarn](https://yarnpkg.com/es-ES/)
   * [Redux](https://redux.js.org/index.html)
   * [Redux Thunk](https://github.com/gaearon/redux-thunk)
   * [Redux Persist](https://github.com/rt2zz/redux-persist/)
@@ -125,3 +126,57 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995)
 
 ---
+
+## Proyect Folder Structure
+
+* Guide --> [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
+```
+  /
+  commons/                --> Recursos compartidos
+    images/                   --> Imágenes
+    i18n/                     --> Textos (traduciones)
+    colors/                   --> Colores
+    fonts/                    --> Fuentes
+    data/                     --> Datos de la app          
+  components/             --> Componentes visuales de la app (Vistas)
+    app/
+      index.js              --> Punto de entrada. Configuración.
+      Routes.js             --> Pantallas y configuración visual.
+    pages/                  --> Páginas
+    widgets/                --> Widgets reutilizables
+  redux/                  --> Redux (Lógica de negocio)
+  api/                    --> Conexión con el back 
+    index.js              
+    constants.js    
+```
+
+
+## Visual components Folder Structure
+
+* Guide --> [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+
+```
+component/
+├── index.js      --> Índice (API externa)
+├── container.js  --> Container Component (Conexión Redux-Vista)
+├── view.jsx      --> Presentational Component (Vista)
+├── styles.css    --> Estilos
+```
+
+
+## Redux Folder Structure
+
+* Guide --> [Reducks - duck folders](https://github.com/alexnm/re-ducks)
+
+```
+duck/
+├── index.js        --> Índice (API externa)
+├── actions.js      --> Actions simples de redux
+├── operations.js   --> Interfaz externa de las actions (simples y thunks)
+├── reducers.js     --> Reducer 
+├── selectors.js    --> Funciones para mapear el estado de redux (mapStateToProps) evitando procesamiento en el render
+├── tests.js        --> Test unitarios
+├── types.js        --> Tipos de redux
+├── utils.js        --> Funciones de utilidad
+```
+
