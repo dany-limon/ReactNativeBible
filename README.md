@@ -182,13 +182,13 @@ duck/
 
 ## Start new proyect
 
-`react-native init`
+* `react-native init`
 
 ## Deploy
 
-`react-native run-ios`
-`react-native run-android`
+* `react-native run-ios`
+* `react-native run-android`
 
 ## Test
 
-`yarn test`
+* `yarn test`
