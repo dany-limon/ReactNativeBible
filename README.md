@@ -160,7 +160,7 @@ component/
 ├── index.js      --> Índice (API externa)
 ├── container.js  --> Container Component (Conexión Redux-Vista)
 ├── view.jsx      --> Presentational Component (Vista)
-├── styles.css    --> Estilos
+├── styles.js     --> Estilos
 ```
 
 
