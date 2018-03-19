@@ -114,6 +114,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Redux 4 ways - Redux with http request](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)
 
 * Other Articles and examples
+  * [¿Qué es React Native?](https://clouddistrict.com/blog-dev/que-es-react-native/) 
   * [Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9) 
   * [11 Mistakes I made](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9) 
   * [15 Components](https://tutorialzine.com/2017/11/15-awesome-react-components)
