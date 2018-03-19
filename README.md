@@ -104,7 +104,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Oficial](https://facebook.github.io/react-native/docs/performance.html)
   * [React Native Performance](https://hackernoon.com/react-native-performance-an-updated-example-6516bfde9c5c)
   * [Make a FAST React Native app](https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0)
-  * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)video📹
+  * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)📹
 
 * Redux tips
   * [Using Redux with React Native](https://medium.com/@pavsidhu/using-redux-with-react-native-9d07381507fe) 
@@ -149,7 +149,6 @@ Regularly updated list with resources and links we found on the web, curated by 
   |    ├── index.js        --> Llamadas    
   |    ├── constants.js    --> Configuración
 ```
-
 
 ## Visual components Folder Structure
 
