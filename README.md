@@ -6,7 +6,7 @@ Regularly updated list with resources and links we found on the web, curated by 
 ## React Native
 
 * Inspiration for everything
-  * [Oficial documentation](https://facebook.github.io/react-native/docs/getting-started.html)
+  * [Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
   * [Awesome React Native](https://github.com/jondot/awesome-react-native)
   * [Facebook - React Native Community](https://www.facebook.com/groups/react.native.community/) 
   * [Facebook - React Native Blog](http://facebook.github.io/react-native/blog/) 
