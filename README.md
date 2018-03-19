@@ -132,22 +132,22 @@ Regularly updated list with resources and links we found on the web, curated by 
 * Guide --> [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
 ```
   /
-  ├── commons/                --> Recursos compartidos
-  |    ├── images/             --> Imágenes
-  |    ├── i18n/               --> Textos (traduciones)
-  |    ├── colors/             --> Colores
-  |    ├── fonts/              --> Fuentes
-  |    ├── data/               --> Datos de la app          
-  ├── components/             --> Componentes visuales de la app (Vistas)
+  ├── commons/             --> Recursos compartidos
+  |    ├── images/         --> Imágenes
+  |    ├── i18n/           --> Textos (traduciones)
+  |    ├── colors/         --> Colores
+  |    ├── fonts/          --> Fuentes
+  |    ├── data/           --> Datos de la app          
+  ├── components/          --> Componentes visuales de la app (Vistas)
   |    ├── app/
-  |    |    ├── index.js        --> Punto de entrada. Configuración.
-  |    |    ├── Routes.js       --> Pantallas y configuración visual.
-  |    ├── pages/              --> Páginas
-  |    ├── widgets/            --> Widgets reutilizables
-  ├── redux/                  --> Redux (Lógica de negocio)
-  ├── api/                    --> Conexión con el back 
-  |    ├── index.js              
-  |    ├── constants.js    
+  |    |    ├── index.js   --> Punto de entrada. Configuración.
+  |    |    ├── Routes.js  --> Pantallas y configuración visual.
+  |    ├── pages/          --> Páginas
+  |    ├── widgets/        --> Widgets reutilizables
+  ├── redux/               --> Redux (Lógica de negocio)
+  ├── api/                 --> Conexión con el back 
+  |    ├── index.js        --> Llamadas    
+  |    ├── constants.js    --> Configuración
 ```
 
 
