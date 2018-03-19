@@ -13,6 +13,7 @@ Regularly updated list with resources and links we found on the web, curated by 
 
 * Courses / Tutorials / Books
   * [Raywenderlich - Building an app from Scratch](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
+  * [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
   * [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
   * [Udemy - Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/content)
   * [Leanpub - Programming React Native](https://leanpub.com/programming-react-native)
@@ -89,7 +90,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Styling Katas](https://github.com/jondot/ReactNativeKatas)
   * [React Native & iPhone X](https://medium.com/react-native-training/react-native-iphonex-92ff511282af)
    
- * Animation Tips
+* Animation Tips
   * [React Native animations revisited — Part I LayoutAnimation](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884)
   * [React Native animations revisited — Part II Animated API](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0)
   * [React Native animations revisited — Part III Gestures](https://blog.callstack.io/react-native-animations-revisited-part-iii-41ed43d1ce2e)
@@ -105,7 +106,6 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)video📹
 
 * Redux tips
-  * [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
   * [Using Redux with React Native](https://medium.com/@pavsidhu/using-redux-with-react-native-9d07381507fe) 
   * [When do I know I'm ready for Redux](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f)
   * [Awsome Redux Repo](https://github.com/xgrommx/awesome-redux)
