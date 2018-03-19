@@ -68,6 +68,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [step-indicator](https://github.com/24ark/react-native-step-indicator)
   * [timeline-listview](https://github.com/thegamenicorus/react-native-timeline-listview)
   * [victory charts](https://github.com/FormidableLabs/victory-native)
+  * [Camera](https://github.com/react-native-community/react-native-camera)
 
 * UIKits
   * [Elements](https://github.com/react-native-training/react-native-elements)
