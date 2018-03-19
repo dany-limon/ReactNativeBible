@@ -180,3 +180,15 @@ duck/
 ├── utils.js        --> Funciones de utilidad
 ```
 
+## Start new proyect
+
+`react-native init`
+
+## Deploy
+
+`react-native run-ios`
+`react-native run-android`
+
+## Test
+
+`yarn test`
