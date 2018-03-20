@@ -38,7 +38,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [lodash - Manipulate objects/arrays](https://lodash.com)
   * [Axios - Ajax lib](https://www.npmjs.com/package/react-native-axios)
   * [qs - Querystring parser](https://www.npmjs.com/package/react-native-axios)
-  * [styled-component💅s](https://www.styled-components.com)
+  * [styled-components💅](https://www.styled-components.com)
   * [FCM - Firebase Cloud Messaging (Push)](https://github.com/evollu/react-native-fcm)
   * [react-native-firebase - Firebase Database/Storage](https://github.com/invertase/react-native-firebase)
   * [simple-store](https://github.com/jasonmerino/react-native-simple-store)
