@@ -26,19 +26,21 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Flow](https://flow.org/en/docs/install/)
   * [React Devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
   
-* Libs
-  * [Yarn](https://yarnpkg.com/es-ES/)
-  * [Redux](https://redux.js.org/index.html)
+* Redux
+  * [Redux](https://redux.js.org/)
   * [Redux Thunk](https://github.com/gaearon/redux-thunk)
   * [Redux Persist](https://github.com/rt2zz/redux-persist/)
+
+* Libs
+  * [Yarn - Dependency management](https://yarnpkg.com/es-ES/)
   * [i18n](https://github.com/AlexanderZaytsev/react-native-i18n#installation)
-  * [MomentJS](https://momentjs.com)
-  * [lodash](https://lodash.com)
-  * [Axios - llamadas HTTP](https://www.npmjs.com/package/react-native-axios)
+  * [MomentJS - Manipulate dates](https://momentjs.com)
+  * [lodash - Manipulate objects/arrays](https://lodash.com)
+  * [Axios - Ajax lib](https://www.npmjs.com/package/react-native-axios)
   * [qs - Querystring parser](https://www.npmjs.com/package/react-native-axios)
-  * [styled-components](https://www.styled-components.com)
-  * [Firebase Cloud Messaging - FCM](https://github.com/evollu/react-native-fcm)
-  * [Firebase Database/Storage - react-native-firebase](https://github.com/invertase/react-native-firebase)
+  * [styled-component💅s](https://www.styled-components.com)
+  * [FCM - Firebase Cloud Messaging (Push)](https://github.com/evollu/react-native-fcm)
+  * [react-native-firebase - Firebase Database/Storage](https://github.com/invertase/react-native-firebase)
   * [simple-store](https://github.com/jasonmerino/react-native-simple-store)
   * [orientation - Listen to device orientation changes](https://github.com/yamill/react-native-orientation)
   * [fs - Native filesystem access](https://github.com/johanneslumpe/react-native-fs)
@@ -91,7 +93,9 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Custom Fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
   * [Styling Katas](https://github.com/jondot/ReactNativeKatas)
   * [React Native & iPhone X](https://medium.com/react-native-training/react-native-iphonex-92ff511282af)
-   
+  * [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
+  * [Awesome 💅 Styled Components](https://github.com/styled-components/awesome-styled-components)
+
 * Animation Tips
   * [React Native animations revisited — Part I LayoutAnimation](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884)
   * [React Native animations revisited — Part II Animated API](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0)
