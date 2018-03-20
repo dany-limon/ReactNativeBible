@@ -18,7 +18,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Udemy - Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/content)
   * [Leanpub - Programming React Native](https://leanpub.com/programming-react-native)
   * [React Native Education](https://github.com/hsavit1/Awesome-React-Native-Education)
-  * [Mario Díez Canal Youtube Español](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native)
+  * [Mario Díez Canal Youtube Español 📹](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native)
 
 * Tools
   * [VS Code](https://code.visualstudio.com/)
@@ -30,6 +30,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Redux](https://redux.js.org/)
   * [Redux Thunk](https://github.com/gaearon/redux-thunk)
   * [Redux Persist](https://github.com/rt2zz/redux-persist/)
+  * [Reselect](https://github.com/reactjs/reselect)
 
 * Libs
   * [Yarn - Dependency management](https://yarnpkg.com/es-ES/)
