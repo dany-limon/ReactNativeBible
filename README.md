@@ -50,11 +50,11 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Router Flux](https://github.com/aksonov/react-native-router-flux)
   * [Animatable](https://github.com/oblador/react-native-animatable)
   * [Vector icons](https://github.com/oblador/react-native-vector-icons)
-  * [Maps](https://github.com/airbnb/react-native-maps) [maps-directions](https://github.com/bramus/react-native-maps-directions)
+  * [Maps](https://github.com/airbnb/react-native-maps) | [maps-directions](https://github.com/bramus/react-native-maps-directions)
   * [Lottie](https://github.com/airbnb/lottie-react-native)
   * [gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
   * [keyboard-aware-scroll-view](react-native-keyboard-aware-scroll-view)
-  * [lightbox](https://github.com/oblador/react-native-lightbox) [modalbox](https://github.com/maxs15/react-native-modalbox)
+  * [lightbox](https://github.com/oblador/react-native-lightbox) | [modalbox](https://github.com/maxs15/react-native-modalbox)
   * [spinkit](https://github.com/maxs15/react-native-spinkit)
   * [calendars](https://github.com/wix/react-native-calendars)
   * [htmlview](https://github.com/jsdf/react-native-htmlview)
@@ -102,6 +102,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Styling Part 2](https://madebymany.com/stories/a-year-of-react-native-styling-part-2)
   * [Custom Fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
   * [Styling Katas](https://github.com/jondot/ReactNativeKatas)
+  * [Themes in React and ReactNative](https://blog.benestudio.co/themes-in-react-native-16b4b0a33ed)
   * [React Native & iPhone X](https://medium.com/react-native-training/react-native-iphonex-92ff511282af)
   * [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
   * [Awesome 💅 Styled Components](https://github.com/styled-components/awesome-styled-components)
@@ -145,7 +146,7 @@ Regularly updated list with resources and links we found on the web, curated by 
 
 ## Proyect Folder Structure
 
-* Guide --> [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
+* Guide --> [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) | [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
 ```
   /
   ├── commons/             --> Recursos compartidos
