@@ -22,9 +22,9 @@ Regularly updated list with resources and links we found on the web, curated by 
 
 * Tools
   * [VS Code](https://code.visualstudio.com/)
-  * [Nuclide](https://nuclide.io/docs/platforms/react-native/)
   * [Flow](https://flow.org/en/docs/install/)
   * [React Devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+  * [Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)
   
 * Redux
   * [Redux](https://redux.js.org/)
@@ -50,12 +50,11 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Router Flux](https://github.com/aksonov/react-native-router-flux)
   * [Animatable](https://github.com/oblador/react-native-animatable)
   * [Vector icons](https://github.com/oblador/react-native-vector-icons)
-  * [Maps](https://github.com/airbnb/react-native-maps)
+  * [Maps](https://github.com/airbnb/react-native-maps) [maps-directions](https://github.com/bramus/react-native-maps-directions)
   * [Lottie](https://github.com/airbnb/lottie-react-native)
   * [gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
   * [keyboard-aware-scroll-view](react-native-keyboard-aware-scroll-view)
-  * [lightbox](https://github.com/oblador/react-native-lightbox)
-  * [modalbox](https://github.com/maxs15/react-native-modalbox)
+  * [lightbox](https://github.com/oblador/react-native-lightbox) [modalbox](https://github.com/maxs15/react-native-modalbox)
   * [spinkit](https://github.com/maxs15/react-native-spinkit)
   * [calendars](https://github.com/wix/react-native-calendars)
   * [htmlview](https://github.com/jsdf/react-native-htmlview)
@@ -83,6 +82,16 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [material-ui](https://github.com/xotahal/react-native-material-ui)
   * [ui-kitten](https://github.com/akveo/react-native-ui-kitten)
   * [nachos-ui](https://github.com/avocode/nachos-ui)
+
+* Redux tips
+  * [Using Redux with React Native](https://medium.com/@pavsidhu/using-redux-with-react-native-9d07381507fe) 
+  * [When do I know I'm ready for Redux](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f)
+  * [Redux 4 ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)
+  * [5 Ways to Connect Redux Actions](https://blog.benestudio.co/5-ways-to-connect-redux-actions-3f56af4009c8)
+  * [Awsome Redux Repo](https://github.com/xgrommx/awesome-redux)
+
+* Router Flux tips
+  * [Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9) 
 
 * Styling Tips
   * [React Native Layout Cheat Sheet](https://medium.com/@drorbiran/the-full-react-native-layout-cheat-sheet-a4147802405c)
@@ -113,31 +122,30 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)📹
   * [Dive into React Native performance](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/)
 
-* Redux tips
-  * [Using Redux with React Native](https://medium.com/@pavsidhu/using-redux-with-react-native-9d07381507fe) 
-  * [When do I know I'm ready for Redux](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f)
-  * [Awsome Redux Repo](https://github.com/xgrommx/awesome-redux)
-  * [Redux 4 ways - Redux with http request](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)
+* Maps tips
+  * [Google Maps](https://codeburst.io/react-native-google-map-with-react-native-maps-572e3d3eee14)
+  * [Building an iOS geolocation app](https://www.codementor.io/vijayst/build-ios-geolocation-app-react-native-du1087rsy)
+
+* Payments tips
+  * [Braintree - Accepting Payments in a React Native App (Part 3)](https://medium.com/react-native-training/accepting-payments-in-a-react-native-app-part-3-c22828ecab13)
+  * [Braintree - Accepting Payments in a React Native App (Part 4)](https://medium.com/react-native-training/accepting-payments-in-a-react-native-app-part-4-cb4f7c02c193)
 
 * Other Articles and examples
-  * [¿Qué es React Native?](https://clouddistrict.com/blog-dev/que-es-react-native/) 
-  * [Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9) 
+  * [¿Qué es React Native?](https://clouddistrict.com/blog-dev/que-es-react-native/) https://github.com/react-community/create-react-native-app/issues/516
+  * [Difference between react-native init and create-react-native-app](https://github.com/react-community/create-react-native-app/issues/516) 
+  * [What Happens When my React Native Application Starts?](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
   * [11 Mistakes I made](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9) 
-  * [15 Components](https://tutorialzine.com/2017/11/15-awesome-react-components)
-  * [Google Maps](https://codeburst.io/react-native-google-map-with-react-native-maps-572e3d3eee14)
-  * [Building custom component for iOS](https://moduscreate.com/blog/react_native_custom_components_ios/)
-  * [Building an iOS geolocation app](https://www.codementor.io/vijayst/build-ios-geolocation-app-react-native-du1087rsy)
   * [What we learnt after a year](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp)
-  * [Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)
   * [Deep Linking your React Native App](https://medium.com/react-native-training/deep-linking-your-react-native-app-d87c39a1ad5e)
   * [How to upload photo/file in react-native](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
   * [Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995)
+  * [Building custom component for iOS](https://moduscreate.com/blog/react_native_custom_components_ios/)
 
 ---
 
 ## Proyect Folder Structure
 
-* Guide --> [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
+* Guide --> [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
 ```
   /
   ├── commons/             --> Recursos compartidos
