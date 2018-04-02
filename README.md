@@ -53,7 +53,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Maps](https://github.com/airbnb/react-native-maps) | [maps-directions](https://github.com/bramus/react-native-maps-directions)
   * [Lottie](https://github.com/airbnb/lottie-react-native)
   * [gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-  * [keyboard-aware-scroll-view](react-native-keyboard-aware-scroll-view)
+  * [keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
   * [lightbox](https://github.com/oblador/react-native-lightbox) | [modalbox](https://github.com/maxs15/react-native-modalbox)
   * [spinkit](https://github.com/maxs15/react-native-spinkit)
   * [calendars](https://github.com/wix/react-native-calendars)
@@ -74,7 +74,7 @@ Regularly updated list with resources and links we found on the web, curated by 
 
 * UIKits
   * [Elements](https://github.com/react-native-training/react-native-elements)
-  * [NativeBase](https://nativebase.i)
+  * [NativeBase](https://nativebase.io)
   * [Shoutem UI](https://github.com/shoutem/ui)
   * [panza](https://github.com/panza-org/panza)
   * [ios-kit](https://github.com/callstack/react-native-ios-kit)
@@ -134,6 +134,7 @@ Regularly updated list with resources and links we found on the web, curated by 
 * Other Articles and examples
   * [¿Qué es React Native?](https://clouddistrict.com/blog-dev/que-es-react-native/) https://github.com/react-community/create-react-native-app/issues/516
   * [Difference between react-native init and create-react-native-app](https://github.com/react-community/create-react-native-app/issues/516) 
+  * [Optimistic UI updates 📹](https://egghead.io/courses/optimistic-ui-updates-in-react?utm_source=drip&utm_medium=email&utm_content=react)
   * [What Happens When my React Native Application Starts?](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
   * [11 Mistakes I made](https://medium.com/dailyjs/11-mistakes-ive-made-during-react-native-redux-app-development-8544e2be9a9) 
   * [What we learnt after a year](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp)
@@ -141,6 +142,8 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [How to upload photo/file in react-native](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
   * [Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995)
   * [Building custom component for iOS](https://moduscreate.com/blog/react_native_custom_components_ios/)
+
+
 
 ---
 
@@ -190,7 +193,7 @@ duck/
 ├── actions.js      --> Actions simples de redux
 ├── operations.js   --> Interfaz externa de las actions (simples y thunks)
 ├── reducers.js     --> Reducer 
-├── selectors.js    --> Funciones para mapear el estado de redux (mapStateToProps) evitando procesamiento en el render
+├── selectors.js    --> Funciones para mapear el estado de redux
 ├── tests.js        --> Test unitarios
 ├── types.js        --> Tipos de redux
 ├── utils.js        --> Funciones de utilidad
