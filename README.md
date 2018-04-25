@@ -23,6 +23,7 @@ Regularly updated list with resources and links we found on the web, curated by 
 * Tools
   * [VS Code](https://code.visualstudio.com/)
   * [Flow](https://flow.org/en/docs/install/)
+  * [Prettier](https://github.com/prettier/prettier)
   * [React Devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
   * [Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)
   
