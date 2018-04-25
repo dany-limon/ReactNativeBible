@@ -14,7 +14,6 @@ Regularly updated list with resources and links we found on the web, curated by 
 * Courses / Tutorials / Books
   * [Raywenderlich - Building an app from Scratch](https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript)
   * [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
-  * [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
   * [Udemy - Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/content)
   * [Leanpub - Programming React Native](https://leanpub.com/programming-react-native)
   * [React Native Education](https://github.com/hsavit1/Awesome-React-Native-Education)
@@ -31,7 +30,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Redux](https://redux.js.org/)
   * [Redux Thunk](https://github.com/gaearon/redux-thunk)
   * [Redux Persist](https://github.com/rt2zz/redux-persist/)
-  * [Reselect](https://github.com/reactjs/reselect)
+  * [redux-logger](https://github.com/evgenyrodionov/redux-logger)
 
 * Libs
   * [Yarn - Dependency management](https://yarnpkg.com/es-ES/)
@@ -95,6 +94,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9) 
 
 * Styling Tips
+  * [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
   * [7 Tips to Develop React Native UIs For All Screen Sizes](https://medium.com/@shanerudolfworktive/7-tips-to-develop-react-native-uis-for-all-screen-sizes-7ec5271be25c)
   * [React Native Layout Cheat Sheet](https://medium.com/@drorbiran/the-full-react-native-layout-cheat-sheet-a4147802405c)
   * [Mini Flexbox Course](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6)
