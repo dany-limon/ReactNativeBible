@@ -94,6 +94,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9) 
 
 * Styling Tips
+  * [7 Tips to Develop React Native UIs For All Screen Sizes](https://medium.com/@shanerudolfworktive/7-tips-to-develop-react-native-uis-for-all-screen-sizes-7ec5271be25c)
   * [React Native Layout Cheat Sheet](https://medium.com/@drorbiran/the-full-react-native-layout-cheat-sheet-a4147802405c)
   * [Mini Flexbox Course](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6)
   * [Managing Styles](https://medium.com/@tommylackemann/managing-styles-in-react-native-3546d3482d73?source=userActivityShare-931cc54f6196-1511347797)
@@ -149,7 +150,9 @@ Regularly updated list with resources and links we found on the web, curated by 
 
 ## Proyect Folder Structure
 
-* Guide --> [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) | [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
+* [Better organize your React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) 
+* [Why React developers should modularize their applications?](https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1)
+* [¿Qué es el diseño atómico?](https://medium.com/pixel-perfect/qué-es-el-diseño-atómico-a5cbed06688e) 
 ```
   /
   ├── commons/             --> Recursos compartidos
@@ -159,11 +162,12 @@ Regularly updated list with resources and links we found on the web, curated by 
   |    ├── fonts/          --> Fuentes
   |    ├── data/           --> Datos de la app          
   ├── components/          --> Componentes visuales de la app (Vistas)
-  |    ├── app/
+  |    ├── system/
   |    |    ├── index.js   --> Punto de entrada. Configuración.
   |    |    ├── Routes.js  --> Pantallas y configuración visual.
-  |    ├── pages/          --> Páginas
-  |    ├── widgets/        --> Widgets reutilizables
+  |    ├── organisms/      --> Páginas
+  |    ├── molecules/        --> Widgets complejos
+  |    ├── atoms/            --> Widgets simples
   ├── redux/               --> Redux (Lógica de negocio)
   ├── api/                 --> Conexión con el back 
   |    ├── index.js        --> Llamadas    
@@ -172,7 +176,7 @@ Regularly updated list with resources and links we found on the web, curated by 
 
 ## Visual components Folder Structure
 
-* Guide --> [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 ```
 component/
@@ -185,7 +189,7 @@ component/
 
 ## Redux Folder Structure
 
-* Guide --> [Reducks - duck folders](https://github.com/alexnm/re-ducks)
+* [Reducks - duck folders](https://github.com/alexnm/re-ducks)
 
 ```
 duck/
@@ -205,9 +209,11 @@ duck/
 
 ## Deploy
 
+* `yarn install`
 * `react-native run-ios`
-* `react-native run-android`
+* `react-native run-android` | `run-android --variant=release`
 
 ## Test
 
 * `yarn test`
+* `yarn test --coverage`
