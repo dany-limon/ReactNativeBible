@@ -125,6 +125,11 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)📹
   * [Dive into React Native performance](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/)
 
+* Keyboard Tips
+  * [How to make your React Native app respond gracefully when the keyboard pops up](https://medium.freecodecamp.org/how-to-make-your-react-native-app-respond-gracefully-when-the-keyboard-pops-up-7442c1535580)
+  * [keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
+  * [KeyboardAvoidingView RN Official](https://facebook.github.io/react-native/docs/keyboardavoidingview)
+
 * Maps tips
   * [Google Maps](https://codeburst.io/react-native-google-map-with-react-native-maps-572e3d3eee14)
   * [Building an iOS geolocation app](https://www.codementor.io/vijayst/build-ios-geolocation-app-react-native-du1087rsy)
@@ -144,6 +149,7 @@ Regularly updated list with resources and links we found on the web, curated by 
   * [How to upload photo/file in react-native](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
   * [Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995)
   * [Building custom component for iOS](https://moduscreate.com/blog/react_native_custom_components_ios/)
+
 
 
 
@@ -218,3 +224,7 @@ duck/
 
 * `yarn test`
 * `yarn test --coverage`
+
+## Realease 
+* IOS: Menu>Arhchive y subir version
+* Android `cd android && ./gradlew assembleRelease`
