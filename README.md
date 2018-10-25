@@ -149,6 +149,13 @@ Regularly updated list with resources and links we found on the web, curated by 
   - [Google Maps](https://codeburst.io/react-native-google-map-with-react-native-maps-572e3d3eee14)
   - [Building an iOS geolocation app](https://www.codementor.io/vijayst/build-ios-geolocation-app-react-native-du1087rsy)
 
+- Firebase tips
+
+  - [Medium - Getting started with Firebase Authentication on React Native](https://medium.com/@chrisbianca/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91)
+  - [react-native-firebase](https://rnfirebase.io/)
+  - [Firebase docs - auth IOS](https://firebase.google.com/docs/auth/ios/phone-auth)
+  - [Building a Google Analytics Funnel from Firebase in React-Native](https://blog.theodo.fr/2018/01/building-google-analytics-funnel-firebase-react-native/)
+
 - Payments tips
 
   - [Braintree - Accepting Payments in a React Native App (Part 3)](https://medium.com/react-native-training/accepting-payments-in-a-react-native-app-part-3-c22828ecab13)
